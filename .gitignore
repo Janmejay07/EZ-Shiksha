@@ -1,0 +1,14 @@
+node_modules/
+Client/node_modules/
+Server/node_modules/
+Client/dist/
+Server/uploads/
+.env
+**/.env
+Server/.env
+Server/data/config.env
+.vite/
+coverage/
+DStore/
+*.log
+npm-debug.log*
